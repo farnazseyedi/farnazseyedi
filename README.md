@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Farnaz
 
-<!--
-**farnazseyedi/farnazseyedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I'm a front-end enthusiast currently learning **React.js** to bring ideas to life through code. I already have a solid grasp of **HTML**, **CSS**, and **JavaScript**, and I'm passionate about creating interactive and meaningful user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+
+- 🎨 I love drawing anime characters and exploring character design
+- 🎸 I play the guitar
+- 📖 I enjoy deep and thoughtful stories (both in books and anime)
+- 💬 MBTI: **ENFJ** – I thrive on connection, expression, and creative collaboration
+- 🧠 Always learning something new
+
+Languages:  HTML, CSS, JavaScript (ES6+)
+Learning:   React.js
