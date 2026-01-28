@@ -29,13 +29,13 @@ Tools:
 Git & GitHub
 
 🧠 Soft Skills
-Problem-Solving
-Critical Thinking
-Communication
-Teamwork
-Adaptability
-Time Management
-Team Collaboration
-Fast and Continuous Learning
-Attention to Detail
-Ability to Work Under Pressure
+Problem-Solving /
+Critical Thinking /
+Communication /
+Teamwork /
+Adaptability /
+Time Management /
+Team Collaboration /
+Fast and Continuous Learning /
+Attention to Detail /
+Ability to Work Under Pressure /
