@@ -1,16 +1,40 @@
-# Hi there! 👋 I'm Farnaz
+(*~*) About Me
 
-Welcome to my GitHub!
+I am a Frontend Developer who builds modern, responsive, and user-friendly interfaces. I work well in teams, communicate effectively, and am responsible, adaptable, and always eager to learn new technologies. I strive to write clean, maintainable code and deliver great user experiences. I enjoy solving problems thoughtfully and continuously improving my skills through self-study and hands-on experience.
 
-I'm a front-end enthusiast currently learning **React.js** to bring ideas to life through code. I already have a solid grasp of **HTML**, **CSS**, and **JavaScript**, and I'm passionate about creating interactive and meaningful user experiences.
+💻 Technical Skills
 
-## ✨ About Me
+Frontend:
+React.js
+Next.js
+HTML5 & CSS3
+Responsive Design / Mobile-First
+JavaScript (ES6+)
+Leaflet
 
-- 🎨 I love drawing anime characters and exploring character design
-- 🎸 I play the guitar
-- 📖 I enjoy deep and thoughtful stories (both in books and anime)
-- 💬 MBTI: **ENFJ** – I thrive on connection, expression, and creative collaboration
-- 🧠 Always learning something new
+UI / Styling:
+Material UI (MUI)
+shadcn/ui
+Tailwind CSS
 
-Languages:  HTML, CSS, JavaScript (ES6+)
-Learning:   React.js
+State & Routing:
+Redux / Zustand
+React Router
+
+Integration:
+REST APIs (Fetch / Axios)
+
+Tools:
+Git & GitHub
+
+🧠 Soft Skills
+Problem-Solving
+Critical Thinking
+Communication
+Teamwork
+Adaptability
+Time Management
+Team Collaboration
+Fast and Continuous Learning
+Attention to Detail
+Ability to Work Under Pressure
